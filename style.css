@@ -1,0 +1,24 @@
+
+h1 {
+    background-color: #666;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    color: rgb(64, 240, 217);
+}
+nav {
+    float: left;
+    width: 20;
+    height: 700px; /* only for demonstration, should be removed */
+    background:white;
+    padding: 30px;
+}
+footer {
+    background-color: #777;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+img{
+    image-orientation: 30deg
+}
